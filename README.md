@@ -1,9 +1,17 @@
-dart-forcemvc-example
+Force-MVC-Demo
 =====================
 
-This is an example of dart forcemvc package. [dart forcemvc](https://github.com/jorishermans/dart-forcemvc) 
+This is a demonstration app showing off some of Force MVC's features.
 
-To run on localhost, open the project in the Dart Editor, then right-click on
-bin/server.dart and choose "Run". Then see the app at [http://localhost:9090](http://localhost:9090)
+## Run live and editable on DartVoid
+- [Go to DartVoid's gallery](https://manage.dartvoid.com/#gallery/create/template/Force MVC Demo) and then press "create", wait a bit and the app will be up and running, with your own copy on your Github account ready to be edited and redeployed.
+
+## Run locally
+- Clone your github repo
+- Start the Dart Editor and open this project
+- Right-click on the bin/server.dart file and choose "Run" (starting the server)
+- Right-click on the web/index.html file and choose "Run in Dartium" (starting the client)
+- Go to [http://localhost:9090](http://localhost:9090)
 
 Based on samples from [ForceUniverse](https://github.com/ForceUniverse/)
+
